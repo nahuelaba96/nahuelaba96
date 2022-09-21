@@ -1,14 +1,17 @@
-Hi there,  I'm Nahuel Abadie  👋
+<div align='center'>
+<h1> Hi there,  I'm Nahuel Abadie  👋</h1>
+</div>
 
-About me:
+## About me:
+```javascript
 const nahuelAbadie = {
-  description: "Im a Full Stack Developer based in Argentina,
-  Entre Ríos. I am passionate about technology and
+  description: "Im a Full Stack Developer based in Argentina.
+  I am passionate about technology and
   learning the new ones that come out.",
   technologies: {
     frontend: {
       html: true,
-      css: true,
+      css: { boostrap: true, material: true, },
       js: true,
       ts: [
             angular: true, 
@@ -16,31 +19,23 @@ const nahuelAbadie = {
       ],
     },
     backend: {
-      js: true,
+      nodejs: true,
       go: true,
       java: true,
       databases: ["mysql", "postgresql", "mongodb"],
       api: true,
     },
   },
-  currentOcupation: null
 }
-👨‍💼 Contact me:
+```
+
+## 👨‍💼 Contact me:
   
-💻Tech Stack:
-                
-🖥️ I would like to learn:
-<!--
-**nahuelaba96/nahuelaba96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href='https://www.linkedin.com/in/nahuelaba/'>
+<img src='./assets/linkedin.svg'/>
+</a>
+<a href='mailto:nahuelaba@gmail.com'>
+<img src='./assets/email.svg'/>
+</a>
+</div>
