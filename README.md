@@ -35,7 +35,7 @@ const nahuelAbadie = {
 <a href='https://www.linkedin.com/in/nahuelaba/'>
 <img src='./assets/linkedin.svg'/>
 </a>
-<a href='mailto:nahuelaba@gmail.com'>
+<a href='mailto:nahuelaba96@gmail.com'>
 <img src='./assets/email.svg'/>
 </a>
 </div>
