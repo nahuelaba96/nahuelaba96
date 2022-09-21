@@ -1,5 +1,5 @@
 <div align='center'>
-<h1> Hi there,  I'm Nahuel Abadie  👋</h1>
+<h1> Hi there,  I'm Nahuel Abadie  <img src='./assets/Hi.gif' width='30'/></h1>
 </div>
 
 ## About me:
