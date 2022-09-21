@@ -1,5 +1,35 @@
-### Hi there 👋
+Hi there,  I'm Nahuel Abadie  👋
 
+About me:
+const nahuelAbadie = {
+  description: "Im a Full Stack Developer based in Argentina,
+  Entre Ríos. I am passionate about technology and
+  learning the new ones that come out.",
+  technologies: {
+    frontend: {
+      html: true,
+      css: true,
+      js: true,
+      ts: [
+            angular: true, 
+            react: true,
+      ],
+    },
+    backend: {
+      js: true,
+      go: true,
+      java: true,
+      databases: ["mysql", "postgresql", "mongodb"],
+      api: true,
+    },
+  },
+  currentOcupation: null
+}
+👨‍💼 Contact me:
+  
+💻Tech Stack:
+                
+🖥️ I would like to learn:
 <!--
 **nahuelaba96/nahuelaba96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
