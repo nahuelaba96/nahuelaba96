@@ -14,8 +14,8 @@ const nahuelAbadie = {
       css: { boostrap: true, material: true, },
       js: true,
       ts: [
-            angular: true, 
-            react: true,
+            { angular: true }, 
+            { react: true },
       ],
     },
     backend: {
