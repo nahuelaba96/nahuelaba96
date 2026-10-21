@@ -34,21 +34,9 @@ I'm interested in backend engineering, software architecture, and building relia
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [LinkedIn Profile](YOUR_LINKEDIN_URL)
-- **Email:** [Contact Me](mailto:YOUR_EMAIL)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nahuelaba/)
+- **Email:** [Contact Me](mailto:nahuelaba96@gmail.com)
 
 ---
 
 *Continuously learning and improving as a software engineer.*
-
-
-## 👨‍💼 Contact me:
-  
-<div>
-<a href='https://www.linkedin.com/in/nahuelaba/'>
-<img src='./assets/linkedin.svg'/>
-</a>
-<a href='mailto:nahuelaba96@gmail.com'>
-<img src='./assets/email.svg'/>
-</a>
-</div>
