@@ -1,33 +1,46 @@
-<div align='center'>
-<h1> Hi there,  I'm Nahuel Abadie  <img src='./assets/Hi.gif' width='30'/></h1>
-</div>
+# Hi, I'm Nahuel Abadie 👋
 
-## About me:
-```javascript
-const nahuelAbadie = {
-  description: "Im a Full Stack Developer based in Argentina.
-  I am passionate about technology and
-  learning the new ones that come out.",
-  technologies: {
-    frontend: {
-      html: true,
-      css: { boostrap: true, material: true, },
-      js: true,
-      ts: [
-            { angular: true }, 
-            { react: true },
-      ],
-    },
-    backend: {
-      nodejs: true,
-      go: true,
-      java: true,
-      databases: ["mysql", "postgresql", "mongodb"],
-      api: true,
-    },
-  },
-}
-```
+**Software Engineer | Backend & Full Stack Development**
+
+Software engineer with 5 years of experience building and maintaining web applications and backend services. I primarily work with **Java and Spring Boot**, with additional experience in **Go, Angular, and Python**.
+
+I'm interested in backend engineering, software architecture, and building reliable, maintainable software.
+
+## 🛠️ Tech Stack
+
+**Backend**
+- Java · Spring Boot
+- Go · Python
+- REST APIs · Microservices
+
+**Frontend**
+- Angular · TypeScript
+
+**Databases**
+- PostgreSQL · SQL
+
+**Tools & Infrastructure**
+- AWS · Docker · Git
+- Scrum · Jira
+
+## 💼 Professional Background
+
+- 5 years of experience in software development.
+- Backend development using Java and Spring Boot.
+- Development and maintenance of REST APIs and web applications.
+- Relational databases, SQL, and data modeling.
+- Experience working across backend and frontend technologies.
+- Collaborative development in Agile teams.
+
+## 📫 Connect with Me
+
+- **LinkedIn:** [LinkedIn Profile](YOUR_LINKEDIN_URL)
+- **Email:** [Contact Me](mailto:YOUR_EMAIL)
+
+---
+
+*Continuously learning and improving as a software engineer.*
+
 
 ## 👨‍💼 Contact me:
   
